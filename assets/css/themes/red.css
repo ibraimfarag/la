@@ -1,0 +1,49 @@
+a {
+    color: #c8102e;
+}
+
+p b {
+    color: #c8102e;
+}
+
+.home-search-wrapper input[type="text"] {
+    border: 1px solid #c8102e !important;
+}
+
+#main-nav {
+    background-color: #c8102e;
+}
+
+
+#intro .intro-heading, .sub-heading, .yellow-heading, .copybox .copy h5, .scrollitems .data {
+    color: #c8102e !important;
+}
+
+
+.data-icon .sub {
+    color: #c8102e;
+}
+
+.scrollitems .title {
+    color: #c8102e;
+}
+
+#footer ul li {
+    border-right: 1px solid #c8102e;
+}
+
+#footer ul li a {
+    color: #c8102e;
+}
+
+.icon:before {
+    color: #c8102e;
+}
+
+.copy-right {
+    color: #c8102e;
+}
+
+#main-nav ul {
+    background-color: #c8102e;
+}

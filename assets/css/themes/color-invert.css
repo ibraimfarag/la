@@ -1,0 +1,39 @@
+body, .figwrap, .dot-bg-floating, .dot-bg, .graybg, .graybgfull, .whitebgfull, .accordion-button, .accordion-body {
+    background-color: #232428 !important;
+    color: #1affff !important;
+    background-image: none;
+}
+
+body #header {
+    background-color: #232428 !important;
+    color: #1affff !important;
+}
+
+body #main-nav  {
+    background-color: #1affff !important;
+}
+
+body #main-nav a {
+    color: #000 !important;
+}
+
+body #socialbar .fa:before {
+    color: #000 !important;
+}
+
+body .font-gray, body .font-black, body h1 , body h2 , body h3, body h4, body p b, body #mid-nav .icon:before, body #footer a, body #footer .icon:before {
+    color: #1affff !important;
+}
+
+body p, body a {
+    color: #fff !important;
+}
+
+body .copy-right {
+    color: #fff !important;
+}
+
+body .copy-right .minstry {
+    color: #1affff !important;
+}
+

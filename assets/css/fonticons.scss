@@ -1,0 +1,551 @@
+$fontversion: '205q50';
+@font-face {
+    font-family: 'fiicons';
+    src: url('/fiicons/fiicons.eot?#{$fontversion}');
+    src: url('/fiicons/fiicons.eot?#{$fontversion}#iefix') format('embedded-opentype'),
+    url('/fiicons/fiicons.ttf?#{$fontversion}') format('truetype'),
+    url('/fiicons/fiicons.woff?#{$fontversion}') format('woff'),
+    url('/fiicons/fiicons.svg?#{$fontversion}#fiicons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="fi-"],
+[class*=" fi-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'fiicons' !important;
+    speak-as: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fi-c-survey:before {
+    content: "\e97b";
+}
+
+.fi-healthcare-center:before {
+    content: "\e97c";
+}
+
+.fi-c-cases:before {
+    content: "\e97d";
+}
+
+.fi-c-deaths:before {
+    content: "\e97e";
+}
+
+.fi-c-recovered:before {
+    content: "\e97f";
+}
+
+.fi-c-test:before {
+    content: "\e980";
+}
+
+.fi-total-vaccine:before {
+    content: "\e981";
+}
+
+.fi-vaccine:before {
+    content: "\e982";
+}
+
+.fi-excel:before {
+    content: "\e974";
+}
+
+.fi-sector-name:before {
+    content: "\e975";
+}
+
+.fi-department-name:before {
+    content: "\e976";
+}
+
+.fi-main-service:before {
+    content: "\e977";
+}
+
+.fi-service-code:before {
+    content: "\e978";
+}
+
+.fi-sub-service-type:before {
+    content: "\e979";
+}
+
+.fi-service-classification:before {
+    content: "\e97a";
+}
+
+.fi-blog-a:before {
+    content: "\e96e";
+}
+
+.fi-download-a:before {
+    content: "\e96f";
+}
+
+.fi-events-a:before {
+    content: "\e970";
+}
+
+.fi-news-a:before {
+    content: "\e971";
+}
+
+.fi-photos-a:before {
+    content: "\e972";
+}
+
+.fi-video-a:before {
+    content: "\e973";
+}
+
+.fi-home-new:before {
+    content: "\e96d";
+}
+
+.fi-dislike-fill:before {
+    content: "\e96b";
+}
+
+.fi-like-fill:before {
+    content: "\e96c";
+}
+
+.fi-dislike:before {
+    content: "\e969";
+}
+
+.fi-like:before {
+    content: "\e96a";
+}
+
+.fi-square:before {
+    content: "\e967";
+}
+
+.fi-triangle:before {
+    content: "\e968";
+}
+
+.fi-microphone:before {
+    content: "\e966";
+}
+
+.fi-color-blindness:before {
+    content: "\e95f";
+}
+
+.fi-font-decrease:before {
+    content: "\e960";
+}
+
+.fi-font-increase:before {
+    content: "\e961";
+}
+
+.fi-printer:before {
+    content: "\e962";
+}
+
+.fi-reset:before {
+    content: "\e963";
+}
+
+.fi-speaker:before {
+    content: "\e964";
+}
+
+.fi-virtual-tour:before {
+    content: "\e965";
+}
+
+.fi-comments:before {
+    content: "\e95e";
+}
+
+.fi-consultation:before {
+    content: "\e95b";
+}
+
+.fi-polls:before {
+    content: "\e95c";
+}
+
+.fi-surveys:before {
+    content: "\e95d";
+}
+
+.fi-pin:before {
+    content: "\e959";
+}
+
+.fi-add-date:before {
+    content: "\e95a";
+}
+
+.fi-images:before {
+    content: "\e953";
+}
+
+.fi-video1:before {
+    content: "\e955";
+}
+
+.fi-generic:before {
+    content: "\e958";
+}
+
+.fi-audio:before {
+    content: "\e951";
+}
+
+.fi-files:before {
+    content: "\e952";
+}
+
+.fi-ppt:before {
+    content: "\e954";
+}
+
+.fi-xls:before {
+    content: "\e956";
+}
+
+.fi-zip:before {
+    content: "\e957";
+}
+
+.fi-items:before {
+    content: "\e950";
+}
+
+.fi-social-media:before {
+    content: "\e94a";
+}
+
+.fi-media-kit:before {
+    content: "\e94b";
+}
+
+.fi-blog:before {
+    content: "\e94c";
+}
+
+.fi-news:before {
+    content: "\e94d";
+}
+
+.fi-photo:before {
+    content: "\e94e";
+}
+
+.fi-video:before {
+    content: "\e94f";
+}
+
+.fi-youtube:before {
+    content: "\e949";
+}
+
+.fi-pdf:before {
+    content: "\e936";
+}
+
+.fi-word:before {
+    content: "\e937";
+}
+
+.fi-body-mass-index:before {
+    content: "\e938";
+}
+
+.fi-calorie-calculation:before {
+    content: "\e939";
+}
+
+.fi-delivery:before {
+    content: "\e93a";
+}
+
+.fi-location:before {
+    content: "\e93b";
+}
+
+.fi-paper-plane:before {
+    content: "\e93c";
+}
+
+.fi-chat:before {
+    content: "\e93d";
+}
+
+.fi-email:before {
+    content: "\e93e";
+}
+
+.fi-mission:before {
+    content: "\e93f";
+}
+
+.fi-vision:before {
+    content: "\e940";
+}
+
+.fi-accountability:before {
+    content: "\e941";
+}
+
+.fi-community:before {
+    content: "\e942";
+}
+
+.fi-excellence:before {
+    content: "\e943";
+}
+
+.fi-initiative:before {
+    content: "\e944";
+}
+
+.fi-innovation:before {
+    content: "\e945";
+}
+
+.fi-patientpriority:before {
+    content: "\e946";
+}
+
+.fi-respect:before {
+    content: "\e947";
+}
+
+.fi-teamwork:before {
+    content: "\e948";
+}
+
+.fi-time:before {
+    content: "\e935";
+}
+
+.fi-star-fill:before {
+    content: "\e934";
+}
+
+.fi-channels:before {
+    content: "\e92b";
+}
+
+.fi-download:before {
+    content: "\e92c";
+}
+
+.fi-faq:before {
+    content: "\e92d";
+}
+
+.fi-fees:before {
+    content: "\e92e";
+}
+
+.fi-location-pin:before {
+    content: "\e92f";
+}
+
+.fi-payment:before {
+    content: "\e930";
+}
+
+.fi-star:before {
+    content: "\e931";
+}
+
+.fi-support:before {
+    content: "\e932";
+}
+
+.fi-pencil:before {
+    content: "\e933";
+}
+
+.fi-favourite-fill:before {
+    content: "\e929";
+}
+
+.fi-play:before {
+    content: "\e92a";
+}
+
+.fi-close-round:before {
+    content: "\e927";
+}
+
+.fi-counter:before {
+    content: "\e928";
+}
+
+.fi-acrobat:before {
+    content: "\e900";
+}
+
+.fi-android:before {
+    content: "\e901";
+}
+
+.fi-arrow-bottom:before {
+    content: "\e902";
+}
+
+.fi-arrow-circle-bottom:before {
+    content: "\e903";
+}
+
+.fi-arrow-circle-left:before {
+    content: "\e904";
+}
+
+.fi-arrow-circle-right:before {
+    content: "\e905";
+}
+
+.fi-arrow-circle-top:before {
+    content: "\e906";
+}
+
+.fi-arrow-left:before {
+    content: "\e907";
+}
+
+.fi-arrow-right:before {
+    content: "\e908";
+}
+
+.fi-arrow-top:before {
+    content: "\e909";
+}
+
+.fi-back-to-top:before {
+    content: "\e90a";
+}
+
+.fi-business:before {
+    content: "\e90b";
+}
+
+.fi-calendar-2:before {
+    content: "\e90c";
+}
+
+.fi-calendar:before {
+    content: "\e90d";
+}
+
+.fi-chevron-bottom:before {
+    content: "\e90e";
+}
+
+.fi-chevron-left:before {
+    content: "\e90f";
+}
+
+.fi-chevron-right:before {
+    content: "\e910";
+}
+
+.fi-chevron-top:before {
+    content: "\e911";
+}
+
+.fi-facebook:before {
+    content: "\e912";
+}
+
+.fi-favourite:before {
+    content: "\e913";
+}
+
+.fi-feeds:before {
+    content: "\e914";
+}
+
+.fi-government:before {
+    content: "\e915";
+}
+
+.fi-happiness:before {
+    content: "\e916";
+}
+
+.fi-home:before {
+    content: "\e917";
+}
+
+.fi-individual:before {
+    content: "\e918";
+}
+
+.fi-info:before {
+    content: "\e919";
+}
+
+.fi-instagram:before {
+    content: "\e91a";
+}
+
+.fi-ios:before {
+    content: "\e91b";
+}
+
+.fi-linkedin:before {
+    content: "\e91c";
+}
+
+.fi-most-used:before {
+    content: "\e91d";
+}
+
+.fi-notification:before {
+    content: "\e91e";
+}
+
+.fi-phone:before {
+    content: "\e91f";
+}
+
+.fi-search:before {
+    content: "\e920";
+}
+
+.fi-send:before {
+    content: "\e921";
+}
+
+.fi-settings:before {
+    content: "\e922";
+}
+
+.fi-sign-language:before {
+    content: "\e923";
+}
+
+.fi-social:before {
+    content: "\e924";
+}
+
+.fi-twitter:before {
+    content: "\e925";
+}
+
+.fi-user:before {
+    content: "\e926";
+}

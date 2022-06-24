@@ -1,0 +1,48 @@
+a {
+    color: #00843d;
+}
+
+p b {
+    color: #00843d;
+}
+
+.home-search-wrapper input[type="text"] {
+    border: 1px solid #00843d !important;
+}
+
+#main-nav {
+    background-color: #00843d;
+}
+
+#intro .intro-heading, .sub-heading, .yellow-heading, .copybox .copy h5, .scrollitems .data {
+    color: #00843d !important;
+}
+
+.data-icon .sub {
+    color: #00843d;
+}
+
+.scrollitems .title {
+    color: #00843d;
+}
+
+#footer ul li {
+    border-right: 1px solid #00843d;
+}
+
+#footer ul li a {
+    color: #00843d;
+}
+
+.icon:before {
+    color: #00843d;
+}
+
+.copy-right {
+    color: #00843d;
+}
+
+
+#main-nav ul {
+    background-color: #00843d;
+}
